@@ -68,3 +68,4 @@ We'd like to acknowledge the following individuals for their contributions to th
 ### Back End 
 - [Amr Shalaby](https://github.com/amr1234567)
 - [Mohamed El-Sayed](https://github.com/mhmdelsyd)
+- [Mohamed Abd El-Maged](https://github.com/midoXmar)
